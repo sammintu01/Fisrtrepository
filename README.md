@@ -1,2 +1,3 @@
 # Fisrtrepository
-This is my first Gitrepository 
+This is my first Git repository.
+Author- SAM MINTU
